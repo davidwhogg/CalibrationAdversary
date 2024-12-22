@@ -10,5 +10,5 @@ All code here is released under the open-source *MIT License*.
 See the file `LICENSE` for details
 
 ## Projects
-- Make data that fucks up *Excalibur*.
-- 
+- Make data that messes with *Excalibur*.
+- Write a paper about concepts in precision wavelength calibration.
